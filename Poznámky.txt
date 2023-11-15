@@ -1,0 +1,17 @@
+MIT Čast
+ - Promluvit si s Popíchalem o možnosti zachycování dat
+ - Server side -> Data se posílají na server tam je s nima další práce
+ - IP Kamera -> Najít dobrou IP kameru  (https://www.tipa.eu/cz/ip-wi-fi-kamera-geti-gwc01/d-259475/?gclid=EAIaIQobChMI4-XBs9qagQMVBZKDBx32rQh8EAQYBSABEgI6T_D_BwE)
+					(https://www.tipa.eu/cz/kamera-blow-h-933-wifi/d-271067/)
+
+Zpracování dat
+ - Snižování kvality fotek k trénování dat
+
+UIN čast
+ - Pytorch x Tenserflow? (Asi víc Tenserflow nebo oba)
+
+
+- Možnost sběru dat ve více učebnách
+- Možnost následovné datové analýzi
+
+Projit, loading dataset img - https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/load_data/images.ipynb#scrollTo=rN-Pc6Zd6awg
